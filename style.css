@@ -1,0 +1,232 @@
+/* .container{
+    border: 1px solid black;
+    width: 1445px;
+    height: 4759;
+} */
+.menu{
+    font-size: 18px;
+    color: #828282;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    list-style: none;
+    
+    
+}
+
+.menu li a.home:nth-child(1){
+    color: black;
+    text-decoration: none;
+    
+}
+.menu li a.me,.work,.catalog,.phone{
+    color: #828282;
+    text-decoration: none;
+}
+
+
+hr{
+    font-size: 18px;
+    border: 1px solid #828282;  
+}
+.navbar{
+    width: 960px;
+    margin: 0 auto;
+    /* border: 1px solid blue;
+     */
+   
+
+}
+/* 2 */
+.denis{
+    font-size: 47.3392px;
+    color: #070707;
+    
+   
+     
+}
+
+.item2{
+    display: block;
+}
+.second{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-top: 20px;
+
+}
+.designer p{
+    font-size: 18px;
+    line-height: 22px;
+    color: #070707;
+   
+    
+}
+.language{
+    font-size: 16px;
+    line-height: 20px;
+    color: #828282;
+    writing-mode: vertical-lr;
+    transform: rotate(-180deg);
+
+}
+.language span {
+    color: black;
+}
+.slider{
+    margin-top: 30px;
+}
+/* 3 */
+.about{
+    margin-top: 40px;
+    height: 506px;
+    background: #F6F6F6;
+    text-align: center;
+    align-items: center;
+    padding-top: 150px;
+   
+   
+  
+
+}
+.text1{
+    font-size: 34px;
+    color: #070707;
+   
+   
+   
+}
+.about p:nth-child(2){
+    font-size: 18px;
+    line-height: 22px;
+   
+}
+/* skills */
+.text2{
+    font-size: 34px;
+    color: #070707;
+}
+
+.skill span{
+    text-align: center;
+    margin-top: 50px ;
+    display: block;
+}
+.logos{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 60px 90px;
+    margin-bottom: 30px;
+}
+.photoshop,.illustrator,.effects,.figma{
+    text-align: center;
+    
+}
+
+/* portfolio */
+.portfolio{
+    background: #F6F6F6;
+   
+}
+.text3{
+    font-size: 34px;
+    color: #070707;
+}
+
+
+.portfolio span {
+    text-align: center;
+    padding-top: 50px ;
+    display: block; 
+}
+.woman img{
+    display: block;
+    margin: auto;
+    padding-top: 30px;
+}
+.page{
+    padding-bottom: 70px;
+}
+
+
+.portfolio .woman p a.online,.concept,.page {
+    font-size: 18px;
+    display: block;
+    justify-content: space-around;
+    text-align: center;
+    color: rgba(27, 25, 25, 0.883);
+}
+.reebok img{
+    display: block;
+    margin: auto;
+    padding-top: 30px;
+}
+.braun img {
+    display: block;
+    margin: auto;
+    padding-top: 50px;
+}
+/* Contacts */
+
+.text4 {
+    font-size: 34px;
+    color: #070707;
+}
+footer span {
+    text-align: center;
+    padding-top: 60px ;
+    display: block; 
+}
+.chat{
+    text-align: center;
+}
+footer .button{
+    
+    border-radius: 10px;
+    background: #070707;
+    color: white;
+    border: 1px solid black;
+    padding: 5px 7px;
+    font-size: 15px;
+    display: block;
+    margin: auto;
+    transition: 1s;
+
+}
+.button:active{
+    background-color: gray;
+   
+}
+.vector3{
+    width: 37px;
+    height: 37px;
+    border: 1px solid black;
+    border-radius: 6px;
+   
+}
+.vector4{
+    width: 37px;
+    height: 37px;
+    border: 1px solid black;
+    border-radius: 6px;
+   
+}
+.icons{
+    display: flex;
+    margin: 0;
+   justify-content: space-around;
+    align-items: center;
+    padding: 60px 400px;
+}
+
+.media{
+    text-align: center;
+    font-size: 14px;
+    color: #828282;
+    /* margin-top: 10px; */
+
+}
+
